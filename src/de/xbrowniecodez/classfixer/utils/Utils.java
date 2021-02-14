@@ -18,7 +18,6 @@ public class Utils {
 	}
 
 	public static void log(String string) {
-		System.out.print("[ClassFixer] "+string + "\n");
+		System.out.println("[ClassFixer] " + string);
 	}
-
 }
